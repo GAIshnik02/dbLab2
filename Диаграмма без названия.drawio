@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 OPR/113.0.0.0" version="24.8.3">
   <diagram name="Страница — 1" id="uybRoan9pvtPxitQQdLI">
-    <mxGraphModel dx="2509" dy="2067" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1744" dy="1659" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -254,7 +254,7 @@
           <mxGeometry x="-175" y="-240" width="75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="DVrpvTOk0jTV4oM5Se0g-83" value="ДТП" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-437" y="590" width="95" height="40.5" as="geometry" />
+          <mxGeometry x="-497" y="539.5" width="187" height="100.5" as="geometry" />
         </mxCell>
         <mxCell id="DVrpvTOk0jTV4oM5Se0g-84" value="Координаты аварии" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-550" y="686" width="80" height="50" as="geometry" />
@@ -448,13 +448,10 @@
             <mxPoint x="290" y="660" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DVrpvTOk0jTV4oM5Se0g-129" value="ФИО" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="512" width="100" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="DVrpvTOk0jTV4oM5Se0g-130" value="Номер телефона" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="666" width="120" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="DVrpvTOk0jTV4oM5Se0g-131" value="VIN код Т.С." style="ellipse;whiteSpace=wrap;html=1;fontStyle=4" vertex="1" parent="1">
+        <mxCell id="DVrpvTOk0jTV4oM5Se0g-131" value="ФИО владельца" style="ellipse;whiteSpace=wrap;html=1;fontStyle=4" vertex="1" parent="1">
           <mxGeometry x="560" y="586" width="120" height="54" as="geometry" />
         </mxCell>
         <mxCell id="DVrpvTOk0jTV4oM5Se0g-132" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="DVrpvTOk0jTV4oM5Se0g-131" target="DVrpvTOk0jTV4oM5Se0g-72">
@@ -463,9 +460,9 @@
             <mxPoint x="430" y="640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DVrpvTOk0jTV4oM5Se0g-133" value="" style="endArrow=none;html=1;rounded=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="DVrpvTOk0jTV4oM5Se0g-129" target="DVrpvTOk0jTV4oM5Se0g-72">
+        <mxCell id="DVrpvTOk0jTV4oM5Se0g-133" value="" style="endArrow=none;html=1;rounded=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="DVrpvTOk0jTV4oM5Se0g-135" target="2xZ_PK04om7FWo83Txfk-24">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="380" y="690" as="sourcePoint" />
+            <mxPoint x="554.6446609406726" y="554.677669529664" as="sourcePoint" />
             <mxPoint x="430" y="640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -474,6 +471,9 @@
             <mxPoint x="380" y="690" as="sourcePoint" />
             <mxPoint x="430" y="640" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="DVrpvTOk0jTV4oM5Se0g-135" value="ФИО владельца" style="ellipse;whiteSpace=wrap;html=1;fontStyle=4" vertex="1" parent="1">
+          <mxGeometry x="227" y="512" width="100" height="42" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
