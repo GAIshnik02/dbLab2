@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 OPR/113.0.0.0" version="24.8.3">
   <diagram name="Страница — 1" id="uybRoan9pvtPxitQQdLI">
-    <mxGraphModel dx="1889" dy="1736" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1836" dy="1708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -137,7 +137,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="DVrpvTOk0jTV4oM5Se0g-27" value="&lt;u&gt;Дата и время нарушения&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-150" y="190" width="120" height="46" as="geometry" />
+          <mxGeometry x="-180" y="173" width="120" height="46" as="geometry" />
         </mxCell>
         <mxCell id="DVrpvTOk0jTV4oM5Se0g-28" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="DVrpvTOk0jTV4oM5Se0g-27" target="DVrpvTOk0jTV4oM5Se0g-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -251,10 +251,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="DVrpvTOk0jTV4oM5Se0g-62" value="Штраф" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-650" y="-90" width="90" height="40" as="geometry" />
+          <mxGeometry x="-640" y="-65" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DVrpvTOk0jTV4oM5Se0g-63" value="Выписывание штрафа" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-672.5" y="100" width="135" height="80" as="geometry" />
+          <mxGeometry x="-597.5" y="119" width="135" height="80" as="geometry" />
         </mxCell>
         <mxCell id="DVrpvTOk0jTV4oM5Se0g-71" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="2xZ_PK04om7FWo83Txfk-24" target="DVrpvTOk0jTV4oM5Se0g-72">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -299,10 +299,28 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="DVrpvTOk0jTV4oM5Se0g-80" value="&lt;u&gt;Личный&lt;/u&gt;&lt;div&gt;&lt;u&gt;номер&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;инспектора&lt;/u&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-578" y="35" width="110" height="60" as="geometry" />
+          <mxGeometry x="-585" y="35" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DVrpvTOk0jTV4oM5Se0g-82" value="Номер постановления о штрафе" style="ellipse;whiteSpace=wrap;html=1;fontStyle=4;labelBackgroundColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="-760" y="40" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DVrpvTOk0jTV4oM5Se0g-83" value="ДТП" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-355" y="329.5" width="95" height="40.5" as="geometry" />
+        </mxCell>
+        <mxCell id="DVrpvTOk0jTV4oM5Se0g-84" value="Координаты аварии" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-330" y="424.5" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DVrpvTOk0jTV4oM5Se0g-85" value="Дата аварии" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-425" y="424.5" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DVrpvTOk0jTV4oM5Se0g-86" value="Вина владельца" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-520" y="409.5" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DVrpvTOk0jTV4oM5Se0g-88" value="Описание аварии" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-465" y="490" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DVrpvTOk0jTV4oM5Se0g-89" value="Описание аварии" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-340" y="499.5" width="80" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
