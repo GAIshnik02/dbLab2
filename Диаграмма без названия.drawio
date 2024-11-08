@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 OPR/114.0.0.0" version="24.8.4">
   <diagram name="Страница — 1" id="uybRoan9pvtPxitQQdLI">
-    <mxGraphModel dx="1360" dy="1757" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2749" dy="1998" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -105,9 +105,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="DVrpvTOk0jTV4oM5Se0g-10" value="Категория Т.С." style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="327" y="666" width="80" height="60" as="geometry" />
+          <mxGeometry x="375" y="706" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DVrpvTOk0jTV4oM5Se0g-13" value="VIN код Т.С." style="ellipse;whiteSpace=wrap;html=1;fontStyle=4" parent="1" vertex="1">
+        <mxCell id="DVrpvTOk0jTV4oM5Se0g-13" value="VIN код Т.С." style="ellipse;whiteSpace=wrap;html=1;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="230" y="779" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DVrpvTOk0jTV4oM5Se0g-15" value="Марка Т.С." style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -258,16 +258,16 @@
           <mxGeometry x="-485.5" y="557" width="165.5" height="53" as="geometry" />
         </mxCell>
         <mxCell id="DVrpvTOk0jTV4oM5Se0g-84" value="Координаты аварии" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-550" y="686" width="80" height="50" as="geometry" />
+          <mxGeometry x="-600" y="706" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="DVrpvTOk0jTV4oM5Se0g-85" value="Дата аварии" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-630" y="570" width="80" height="50" as="geometry" />
+          <mxGeometry x="-670" y="560" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="DVrpvTOk0jTV4oM5Se0g-86" value="Вина владельца" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-620" y="499.5" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="DVrpvTOk0jTV4oM5Se0g-88" value="Описание аварии" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-620" y="636" width="80" height="50" as="geometry" />
+          <mxGeometry x="-670" y="650.25" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="DVrpvTOk0jTV4oM5Se0g-92" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="DVrpvTOk0jTV4oM5Se0g-7" target="2xZ_PK04om7FWo83Txfk-3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -339,7 +339,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="DVrpvTOk0jTV4oM5Se0g-111" value="&lt;u&gt;Личный&lt;/u&gt;&lt;div&gt;&lt;u&gt;номер&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;инспектора&lt;/u&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-387.5" y="686" width="110" height="60" as="geometry" />
+          <mxGeometry x="-371" y="733" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DVrpvTOk0jTV4oM5Se0g-112" value="VIN код Т.С." style="ellipse;whiteSpace=wrap;html=1;fontStyle=4" parent="1" vertex="1">
           <mxGeometry x="-290" y="666" width="110" height="40" as="geometry" />
@@ -514,8 +514,8 @@
         </mxCell>
         <mxCell id="DVrpvTOk0jTV4oM5Se0g-151" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-340" y="549" as="sourcePoint" />
-            <mxPoint x="-320" y="569" as="targetPoint" />
+            <mxPoint x="-302" y="505" as="sourcePoint" />
+            <mxPoint x="-282" y="525" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DVrpvTOk0jTV4oM5Se0g-154" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
@@ -639,7 +639,7 @@
           <mxGeometry x="-90" y="374" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GANfQ6A7iN15UyMoaY1j-7" value="M" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-370" y="522" width="60" height="30" as="geometry" />
+          <mxGeometry x="-342" y="479.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GANfQ6A7iN15UyMoaY1j-8" value="1" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-457.5" y="173" width="60" height="30" as="geometry" />
@@ -693,6 +693,18 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="420" y="590" as="sourcePoint" />
             <mxPoint x="470" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QKv4T_avrwwknt7Am-L7-10" value="Id_ТС" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="183.5" y="471" width="75" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="QKv4T_avrwwknt7Am-L7-12" value="Id_ТС" style="ellipse;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="550" y="522" width="75" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="QKv4T_avrwwknt7Am-L7-13" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="QKv4T_avrwwknt7Am-L7-1" target="QKv4T_avrwwknt7Am-L7-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="500" y="620" as="sourcePoint" />
+            <mxPoint x="550" y="570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
